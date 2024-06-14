@@ -1,0 +1,8 @@
+@import "colors.css";
+
+body {
+    background-color: rgb(42, 145, 209);
+    color: white;
+    text-align: center;
+    width: 100%;
+} 
